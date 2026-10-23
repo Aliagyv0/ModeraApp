@@ -1,0 +1,17 @@
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Infrastructure.deps.json
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Infrastructure.dll
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Infrastructure.pdb
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Application.dll
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Domain.dll
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Application.pdb
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\bin\Debug\net10.0\ModeraApp.Domain.pdb
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraAp.C493A094.Up2Date
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.dll
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\refint\ModeraApp.Infrastructure.dll
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ModeraApp.Infrastructure.pdb
+C:\Users\Ali\Desktop\ModeraApp\Infrastructures\ModeraApp.Infrastructure\obj\Debug\net10.0\ref\ModeraApp.Infrastructure.dll

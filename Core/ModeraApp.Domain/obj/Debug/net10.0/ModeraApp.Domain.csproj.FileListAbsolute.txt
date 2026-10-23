@@ -1,0 +1,12 @@
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\bin\Debug\net10.0\ModeraApp.Domain.deps.json
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\bin\Debug\net10.0\ModeraApp.Domain.dll
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\bin\Debug\net10.0\ModeraApp.Domain.pdb
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.AssemblyInfo.cs
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.dll
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\refint\ModeraApp.Domain.dll
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.pdb
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ref\ModeraApp.Domain.dll
+C:\Users\Ali\Desktop\ModeraApp\Core\ModeraApp.Domain\obj\Debug\net10.0\ModeraApp.Domain.csproj.AssemblyReference.cache
